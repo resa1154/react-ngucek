@@ -1,0 +1,15 @@
+{
+"Roles":[{
+        "id":1,
+        "no":1,
+        "roles":"Admin",
+    },{
+        "id":2,
+        "no":2,
+        "roles":"Mitra"
+    },{
+        "id":3,
+        "no":3,
+        "roles":"Surveyor"
+    }]
+}
